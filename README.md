@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, my name is Javier 👋
+🔭 I’m currently working on [Lethouse](https://lethouse.co)
 
 <!--
 **javierpelozo/javierpelozo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,14 @@
 ### Hi there, my name is Javier 👋
+
+I'm from <img src="https://image.flaticon.com/icons/png/512/197/197376.png" width="13"/> <b>Paraguay</b>
+
+Indie Maker · Freelance Developer · I do small projects on the Internet and have fun in the process
+
 🔭 I’m currently working on [Lethouse](https://lethouse.co) & [ClickParaPedir](https://clickparapedir.com)
+
+[![Javier GitHub stats](https://github-readme-stats.vercel.app/api?username=javierpelozo&show_icons=true&theme=radical&hide=issues,contribs)](https://github.com/javierpelozo)
+
+
 
 <!--
 **javierpelozo/javierpelozo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -6,8 +6,6 @@ Indie Maker · Freelance Developer · I do small projects on the Internet and ha
 
 🔭 I’m currently working on [Lethouse](https://lethouse.co) & [ClickParaPedir](https://clickparapedir.com)
 
-[![Javier GitHub stats](https://github-readme-stats.vercel.app/api?username=javierpelozo&show_icons=true&theme=radical&hide=issues,contribs)](https://github.com/javierpelozo)
-
 
 
 <!--
